@@ -41,6 +41,8 @@ namespace Calculator
 
             }
 
+            Console.ReadLine();
+
 
         }
     }
